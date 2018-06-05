@@ -1,3 +1,3 @@
 "hello world"
 
-method hello_world
+hello_world
