@@ -1,3 +1,3 @@
 "hello world"
 
-name = hello_world
+NameError= hello_world
